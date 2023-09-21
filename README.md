@@ -1,6 +1,6 @@
 ### printf "Hello"
 
-Aspiring Cyber Security Personel
+Aspiring Cyber Security Personel/Ethical Hacker
 
 Just using GitHub to host all of my coding projects (Portfolio)
 
