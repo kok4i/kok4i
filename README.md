@@ -6,8 +6,6 @@ Just using GitHub to host all of my coding projects (Portfolio)
 
 Trying to get back into CTFs so DM if I can join you
 
-My Discord is Walke
-
 <!--
 **kok4i/kok4i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
